@@ -1,2 +1,2 @@
 # Rock paper scissors
-Here are some of my python projects
+Simple Rock paper scissors game using python for beginners 
